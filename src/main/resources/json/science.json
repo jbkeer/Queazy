@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Ag", "Au", "Pb", "Gd"],
+    "answer": "Au"
+  },
+  {
+    "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+    "options": ["Mars", "Jupiter", "Venus", "Saturn"],
+    "answer": "Venus"
+  },
+  {
+    "question": "What is the most abundant element in the Earth's crust?",
+    "options": ["Oxygen", "Silicon", "Aluminum", "Iron"],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Quartz", "Diamond", "Corundum", "Topaz"],
+    "answer": "Diamond"
+  },
+  {
+    "question": "How many bones are in the adult human body?",
+    "options": ["196", "206", "216", "226"],
+    "answer": "206"
+  },
+  {
+    "question": "What is the main gas found in the air we breathe?",
+    "options": ["Oxygen", "Hydrogen", "Carbon Dioxide", "Nitrogen"],
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "What type of bond involves the sharing of electron pairs between atoms?",
+    "options": ["Ionic Bond", "Covalent Bond", "Metallic Bond", "Hydrogen Bond"],
+    "answer": "Covalent Bond"
+  },
+  {
+    "question": "Which organ in the human body is primarily responsible for filtering blood?",
+    "options": ["Liver", "Heart", "Kidneys", "Lungs"],
+    "answer": "Kidneys"
+  },
+  {
+    "question": "What is the pH level of pure water?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "question": "Which scientist proposed the theory of general relativity?",
+    "options": ["Isaac Newton", "Nikola Tesla", "Galileo Galilei", "Albert Einstein"],
+    "answer": "Albert Einstein"
+  }
+]

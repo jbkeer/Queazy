@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.quiz.quizapp.controller.MathController"
+            prefHeight="400.0" prefWidth="600.0">
+    <children>
+        <Label alignment="CENTER" layoutX="185.0" layoutY="69.0" prefHeight="17.0" prefWidth="202.0" text="Welcome to Math Quiz" />
+        <Label layoutX="-377.0" layoutY="-167.0" text="Label" />
+    </children>
+</AnchorPane>

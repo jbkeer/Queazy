@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.quiz.quizapp.controller.CategoriesController">
+    <children>
+
+        <!-- Added the ID's-->
+        <Label alignment="CENTER" layoutX="237.0" layoutY="60.0" prefHeight="25.0" prefWidth="126.0" text="Categories" />
+        <Button fx:id="mathBtn" layoutX="59.0" layoutY="131.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="66.0" text="Math" />
+        <Button fx:id="sciBtn" layoutX="234.0" layoutY="131.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="66.0" text="Science" />
+        <Button fx:id="geoBtn" layoutX="396.0" layoutY="131.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="103.0" text="Geography" />
+    </children>
+</AnchorPane>

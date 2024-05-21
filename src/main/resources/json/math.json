@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the value of 8 × 7?",
+    "options": ["54", "56", "58", "60"],
+    "answer": "56"
+  },
+  {
+    "question": "What is 15% of 200?",
+    "options": ["25", "30", "35", "40"],
+    "answer": "30"
+  },
+  {
+    "question": "Solve for x: 3x + 5 = 20",
+    "options": ["4", "5", "6", "7"],
+    "answer": "5"
+  },
+  {
+    "question": "What is the area of a circle with a radius of 4?",
+    "options": ["16π", "8π", "12π", "4π"],
+    "answer": "16π"
+  },
+  {
+    "question": "What is the value of √81?",
+    "options": ["7", "8", "9", "10"],
+    "answer": "9"
+  },
+  {
+    "question": "If y = 2x + 3, what is the value of y when x = 5?",
+    "options": ["11", "12", "13", "14"],
+    "answer": "13"
+  },
+  {
+    "question": "What is the next number in the sequence: 2, 4, 8, 16, ...?",
+    "options": ["18", "20", "24", "32"],
+    "answer": "32"
+  },
+  {
+    "question": "What is the sum of the interior angles of a quadrilateral?",
+    "options": ["180°", "270°", "360°", "450°"],
+    "answer": "360°"
+  },
+  {
+    "question": "What is 7! (7 factorial)?",
+    "options": ["2,520", "5,040", "7,560", "10,080"],
+    "answer": "5,040"
+  },
+  {
+    "question": "What is 2^5?",
+    "options": ["16", "24", "32", "64"],
+    "answer": "32"
+  }
+]

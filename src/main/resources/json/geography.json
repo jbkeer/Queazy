@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the capital of Japan?",
+    "options": ["Seoul", "Beijing", "Tokyo", "Bangkok"],
+    "answer": "Tokyo"
+  },
+  {
+    "question": "Which river is the longest in the world?",
+    "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+    "answer": "Nile"
+  },
+  {
+    "question": "Mount Kilimanjaro is located in which country?",
+    "options": ["Kenya", "Tanzania", "Uganda", "South Africa"],
+    "answer": "Tanzania"
+  },
+  {
+    "question": "Which country is the largest by land area?",
+    "options": ["Canada", "China", "United States", "Russia"],
+    "answer": "Russia"
+  },
+  {
+    "question": "What is the smallest continent by land area?",
+    "options": ["Antarctica", "Europe", "Australia", "South America"],
+    "answer": "Australia"
+  },
+  {
+    "question": "Which U.S. state is known as the 'Sunshine State'?",
+    "options": ["California", "Florida", "Arizona", "Texas"],
+    "answer": "Florida"
+  },
+  {
+    "question": "Which European city is known as the 'City of Light'?",
+    "options": ["London", "Paris", "Rome", "Berlin"],
+    "answer": "Paris"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "options": ["Sahara Desert", "Arabian Desert", "Gobi Desert", "Antarctic Desert"],
+    "answer": "Antarctic Desert"
+  },
+  {
+    "question": "Which country is home to the Great Barrier Reef?",
+    "options": ["Indonesia", "Australia", "Philippines", "Malaysia"],
+    "answer": "Australia"
+  },
+  {
+    "question": "Which country has the most natural lakes?",
+    "options": ["Canada", "United States", "Brazil", "Russia"],
+    "answer": "Canada"
+  }
+]

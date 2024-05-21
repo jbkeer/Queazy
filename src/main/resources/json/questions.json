@@ -1,0 +1,52 @@
+[
+  {
+    "question": "How many consonants are there in the English alphabet?",
+    "options": ["19", "20", "21", "22"],
+    "answer": "21"
+  },
+  {
+    "question": "Who invented the Light bulb?",
+    "options": ["Thomas Alva Edison", "Alexander Fleming", "Charles Babbage", "Albert Einstein"],
+    "answer": "Thomas Alva Edison"
+  },
+  {
+    "question": "In the Solar System, farthest planet from the Sun is",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": "Neptune"
+  },
+  {
+    "question": "Largest moon in the Solar System?",
+    "options": ["Titan", "Ganymede", "Moon", "Europa"],
+    "answer": "Ganymede"
+  },
+  {
+    "question": "Which of these is 'not' a property of metal?",
+    "options": ["Good Conduction", "Malleable", "Non Ductile", "Sonourous"],
+    "answer": "Non Ductile"
+  },
+  {
+    "question": "Who discovered Pasteurisation?",
+    "options": ["Alexander Fleming", "Louis Pasteur", "Simon Pasteur", "William Pasteur"],
+    "answer": "Louis Pasteur"
+  },
+  {
+    "question": "Hydrochloric acid (HCl) is produced by -?",
+    "options": ["Small Intestine", "Liver", "Oesophagus", "Stomach"],
+    "answer": "Stomach"
+  },
+  {
+    "question": "The fastest animal in the world is -",
+    "options": ["Lion", "Blackbuck", "Cheetah", "Quarter Horse"],
+    "answer": "Cheetah"
+  },
+  {
+    "question": "Complementary colour of Red is -",
+    "options": ["Blue", "Green", "Yellow", "Pink"],
+    "answer": "Green"
+  },
+  {
+    "question": "World Environment Day is on -",
+    "options": ["5th June", "5th July", "15th June", "25th June"],
+    "answer": "5th June"
+  }
+]
