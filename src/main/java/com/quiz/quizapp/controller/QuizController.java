@@ -72,7 +72,7 @@ public class QuizController {
 
     private void handleOptionClick(ActionEvent event, Button button) {
 
-        playClickSound(); // Play click sound
+        MusicController.playClickSound(); // Play click sound
 
         if (checkAnswer(button.getText())) {
             correct++;
@@ -139,25 +139,4 @@ public class QuizController {
         handleOptionClick(event, opt4);
     }
 
-    private void playClickSound() {
-        String clickSoundPath = "src/main/resources/music/click_sound.wav"; // Path to click sound
-        try {
-            File soundFile = new File(clickSoundPath);
-            if (soundFile.exists()) {
-                AudioInputStream audioInput = AudioSystem.getAudioInputStream(soundFile);
-                Clip clip = AudioSystem.getClip();
-                clip.open(audioInput);
-
-                // Get the volume control and set the volume (optional)
-                FloatControl volumeControl = (FloatControl) clip.getControl(FloatControl.Type.MASTER_GAIN);
-                volumeControl.setValue(-10.0f); // Adjust volume as needed
-
-                clip.start();
-            } else {
-                System.out.println("Can't find file: " + clickSoundPath);
-            }
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-    }
 }

@@ -21,7 +21,7 @@ public class HomeController {
         playquizbtn.setOnAction(new EventHandler<ActionEvent>() {
             @Override
             public void handle(ActionEvent event) {
-
+                MusicController.playClickSound(); // Play click sound
                 try {
                     Stage thisstage = (Stage) ((Button) event.getSource()).getScene().getWindow();
                     thisstage.close();

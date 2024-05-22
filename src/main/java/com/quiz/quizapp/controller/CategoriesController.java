@@ -31,12 +31,14 @@ public class CategoriesController {
     @FXML
     private void initialize() {
 
-        mathBtn.setOnAction(event -> loadQuiz(event, "math"));
+        mathBtn.setOnAction(event -> loadQuiz(event, "math")) ;
         sciBtn.setOnAction(event -> loadQuiz(event, "science"));
         geoBtn.setOnAction(event -> loadQuiz(event, "geography"));
     }
 
     private void loadQuiz(ActionEvent event, String category) {
+        MusicController.playClickSound(); // Play click sound
+
         try {
             Stage thisStage = (Stage) ((Button) event.getSource()).getScene().getWindow();
             thisStage.close();
